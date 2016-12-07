@@ -12,6 +12,7 @@
 		var c = 8
 		var d = 121111
 		var e = 1111
-jsjdkshfkdshf
+jsjdkshfkdshf¡¢
+ÄãÊÇ¸öÀ¬»ø
 	}
 </script>
