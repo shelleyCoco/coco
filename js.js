@@ -7,4 +7,7 @@
 	function b(){
 		var c = 2;
 	}
+	function c(){
+		var d = 7
+	}
 </script>
