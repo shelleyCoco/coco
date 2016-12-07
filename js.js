@@ -9,5 +9,6 @@
 	}
 	function c(){
 		var d = 7
+		var c = 8
 	}
 </script>
