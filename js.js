@@ -11,5 +11,6 @@
 		var d = 7
 		var c = 8
 		var d = 12
+		var e = 1111
 	}
 </script>
